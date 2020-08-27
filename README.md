@@ -19,8 +19,8 @@ it does not automatically go live. It goes into a pending queue that must be app
 Users have no permissions on the site other than the ability to make an account.
 
 ## Technologies
-Front End: JSPs, CSS (Bootstrap)
-Back End: Java, Spring MVC, Spring Security
-Database: MySQL
+Front End: JSPs, CSS (Bootstrap)  
+Back End: Java, Spring MVC, Spring Security  
+Database: MySQL  
 
 Utilizes Spring Security to authenticate users upon login attempt
