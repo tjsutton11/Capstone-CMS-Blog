@@ -20,7 +20,7 @@ Users have no permissions on the site other than the ability to make an account.
 
 ## Technologies
 Front End: JSPs, CSS (Bootstrap)  
-Back End: Java, Spring MVC, Spring Security  
+Back End: Java, Spring MVC, Spring Security, Spring DI, and Tomcat  
 Database: MySQL  
 
 Utilizes Spring Security to authenticate users upon login attempt
